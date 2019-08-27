@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * @author zoick
  * @date 2019/7/4 21:27
- * mybatis的入门安利
+ * mybatis的入门案例
  */
 public class MybatisTest {
     public static void main(String[] args) throws IOException {
